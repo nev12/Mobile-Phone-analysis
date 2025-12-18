@@ -27,7 +27,7 @@ SQL: CTEs, joins, cases, aggregate functions
 
 Tableau: joins, charts, data visualizations
 
-## Results and Business Recommendatation:
+## Results:
 
 - OLD and AMOLED displays are associated with higher average prices compared to LCDs, 
 and with that they are produced less, however the number of them has been rising
