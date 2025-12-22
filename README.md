@@ -32,9 +32,15 @@ Tableau: joins, charts, data visualizations
 - OLD and AMOLED displays are associated with higher average prices compared to LCDs, 
 and with that they are produced less, however the number of them has been rising
 
+![display_type_price](https://github.com/nev12/cellphone-evolution-analysis/blob/main/images/display_price.png)
+
 - Camera resolutions (especially multi-lens setups) increased significantly ater 2018, correalating with a price rise
 
+![rear_camera_resolutions](https://github.com/nev12/cellphone-evolution-analysis/blob/main/images/rear_cams.png)
+
 - Memory capacities (RAM and internal storage) have grown steadily, with a top-tier models reaching 16 GB RAM and 512 GB internal memory in 2023
+
+![outstanding_memory](https://github.com/nev12/cellphone-evolution-analysis/blob/main/images/outstanding_memory.png)
 
 - Brands differ greatly in feature strategy - Apple and Google prioritize camera and display, while others push storage capacity.
 
